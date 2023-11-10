@@ -1,0 +1,3 @@
+ git remote add upstream url-ORIGINAL
+git add .
+git push origin
